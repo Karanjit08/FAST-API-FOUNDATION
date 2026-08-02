@@ -7,7 +7,7 @@ app = FastAPI(
         "Internal API for managing orders"
         "Serving Customers always"
     ),
-    version="1.2.1",
+    version="1.2.3",
     docs_url="/docs",
     redoc_url="/redoc",
     openapi_url="/openapi.json"
@@ -24,6 +24,6 @@ def about():
     """RETURNS META DATA"""
     return {"service": "Order Service", 
             "team": "backend-platform",
-            "region": "ap-south-1",
-            "version": "1.2.2"
+            "region": "ap-south-2",
+            "version": "1.2.3"
             }
