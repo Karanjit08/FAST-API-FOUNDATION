@@ -27,3 +27,12 @@ def about():
             "region": "ap-south-2",
             "version": "1.2.3"
             }
+
+@app.get("/orders")
+def get_orders():
+    """RETURNS ORDERS DATA"""
+    return [
+        {"id": 1, "item": "Butter Chicken"},
+        {"id": 2, "item": "Masala Dosa"},
+        {"id": 3, "item": "Paneer Tikka"},
+    ]
