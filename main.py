@@ -8,4 +8,4 @@ app = FastAPI(
 
 @app.get("/")
 def root():
-    return {"message": "Welcome to the Chai Point Menu"}
+    return {"message": "Welcome to Chai Point Menu"}
