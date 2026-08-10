@@ -8,3 +8,8 @@ class MenuItem(BaseModel):
     category: str
     description: str
     available: bool
+
+class MenuResponse(BaseModel):
+    status: str
+    count: int
+    items: list[MenuItem]  
