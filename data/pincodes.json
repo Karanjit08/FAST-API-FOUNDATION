@@ -1,0 +1,37 @@
+[
+    {
+        "pincode": "411001",
+        "city": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "pincode": "411014",
+        "city": "Pune",
+        "state": "Maharashtra"
+    },
+    {
+        "pincode": "400001",
+        "city": "Mumbai",
+        "state": "Maharashtra"
+    },
+    {
+        "pincode": "110001",
+        "city": "New Delhi",
+        "state": "Delhi"
+    },
+    {
+        "pincode": "560001",
+        "city": "Bengaluru",
+        "state": "Karnataka"
+    },
+    {
+        "pincode": "600001",
+        "city": "Chennai",
+        "state": "Tamil Nadu"
+    },
+    {
+        "pincode": "700001",
+        "city": "Kolkata",
+        "state": "West Bengal"
+    }
+]
